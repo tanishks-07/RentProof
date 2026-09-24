@@ -1,3 +1,35 @@
+<h1 align="center">🛡️ RentProof</h1>
+
+<h3 align="center">AI that understands your property's condition.</h3>
+
+<p align="center">
+  Capture your room. Let AI identify visible damage. Get a documented condition report.<br/>
+  Compare it when you move out to resolve deposit disputes — instantly.
+</p>
+
+---
+
+## 🔗 Important Links
+
+### 🚀 Live Demo
+👉 https://rent-proof-mu.vercel.app/
+
+### 💻 GitHub Repository
+👉 https://github.com/tanishks-07/RentProof
+
+---
+
+### 👨‍⚖️ For Judges
+
+**Start with the Live Demo:**  
+https://rent-proof-mu.vercel.app/
+
+**View the complete source code:**  
+https://github.com/tanishks-07/RentProof
+
+---
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/TypeScript-6.0-3178C6?style=flat-square&logo=typescript" />
